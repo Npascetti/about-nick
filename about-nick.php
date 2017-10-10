@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<div class="main">
-			<h3 class="strike"> I'm Guybrush Threepwood, mighty pirate.</h3>
+			<h3 class="strike"> I'm Guybrush Threepwood, mighty pirate.RRRR!</h3>
 			<h1>Hi! My name is Nick Pascetti!</h1>
 			<p>My name is Nick Pascetti, podcast addict, lover of beer, cats, esoteric LucasArts &trade; adventure games, in addition to being an aspiring web developer.</p>
 			<div class="images">
