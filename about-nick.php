@@ -8,7 +8,7 @@
 		<div class="main">
 			<h3 class="strike"> I'm Guybrush Threepwood, mighty pirate. RRRR!</h3>
 			<h1>Hi! My name is Nick Pascetti!</h1>
-			<p>My name is Nick Pascetti, podcast addict, lover of beer, cats, esoteric LucasArts &trade; adventure games, in addition to being an aspiring web developer.</p>
+			<p>My name is Nick Pascetti, podcast addict, I love podcasts especially This American Life and Serial. I am a lover of beer, cats, esoteric LucasArts &trade; adventure games, in addition to being an aspiring web developer.</p>
 			<div class="images">
 				<img src="https://bootcamp-coders.cnm.edu/~npascetti/images/nick.jpg" width="50%" height="50%" />
 			</div>
