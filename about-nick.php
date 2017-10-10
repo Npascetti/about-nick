@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>A Page about me!</title>
-		<link href="https://bootcamp-coders.cnm.edu/~npascetti/css/about-nicksstylesheet.css" rel="stylesheet" type="text/css" />
+		<link href="./css/about-nicksstylesheet.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 		<div class="main">

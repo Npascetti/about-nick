@@ -1,0 +1,36 @@
+div.main {
+	background-color: #64ABB8;
+	margin: auto;
+}
+img {
+	margin: auto;
+	width: 50%;
+	display: block;
+}
+
+h1 {
+	color: #D2DCCC;
+
+}
+
+h3 {
+	color: #F6EEE4;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.heading {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	text-decoration: underline #D2DCCC ;
+}
